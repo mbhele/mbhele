@@ -4,7 +4,7 @@ About me
 
 💼 javascript developer 3+ experience
 
-❤️ I love writing Javascript, and building efficient applications.
+❤️ I love writing Javascript and building efficient applications.
 
 💬 Ask me about anything <a href="mailto:mbhele@code25.com"> here</a>
 
