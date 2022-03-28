@@ -2,11 +2,13 @@
 
 About me
 
-💼 javascript developer 3+ experience
+- Internet surfer 🏄‍♂️.  
 
-❤️ I love writing Javascript and building efficient applications.
+- 💼 javascript developer 3+ experience
 
-💬 Ask me about anything <a href="mailto:mbhele@code25.com"> here</a>
+- ❤️ I love writing Javascript and building efficient applications.
+
+- 💬 Ask me about anything <a href="mailto:mbhele@code25.com"> here</a>
 
 ###  My github  Stats
 [![Mbusiseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbhele)](https://github.com/anuraghazra/github-readme-stats)
